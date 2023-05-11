@@ -46,7 +46,7 @@ The dataset is split into a training and eval set `train.json` and `eval.json`. 
 The dataset JSON has the following structure:
 ``` JSON
 {
-    "friendly": [
+    "polite": [
         {
             "buyer_info": {
                 "personality": "polite",
